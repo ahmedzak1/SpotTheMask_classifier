@@ -1,0 +1,9 @@
+numpy
+torchvision
+https://download.pytorch.org/whl/cu102/torch-1.5.1-cp36-cp36m-linux_x86_64.whl
+fastai 
+starlette
+uvicorn==0.3.32
+python-multipart
+aiofiles
+aiohttp
